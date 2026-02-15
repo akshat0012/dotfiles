@@ -1,0 +1,12 @@
+bspwm
+sxhkd
+ttf-bigblueterminal-nerd
+neovim
+shotgun
+firefox
+fastfetch
+alacritty
+qbittorrent
+mpv
+lf
+dmenu

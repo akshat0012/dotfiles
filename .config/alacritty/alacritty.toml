@@ -1,0 +1,17 @@
+[font]
+size = 10.0
+normal = { family = "BigBlueTermPlus Nerd Font", style = "Regular" }
+
+[scrolling]
+history = 10000
+
+[window]
+opacity = 1
+
+[window.padding]
+x = 7
+y = 7
+
+[colors.primary]
+background = '0x000000'
+foreground = '0xf5f5dc'
