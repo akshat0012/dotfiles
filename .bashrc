@@ -33,4 +33,4 @@ alias ls='ls --color=auto'
 alias grep='grep --color=auto'
 
 # Prompt
-PS1="[\u@${BOLD_RED}\h${RESET}\W]\$ "
+PS1="[\u@${BOLD_RED}\h${RESET} \W]\$ "

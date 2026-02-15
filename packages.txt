@@ -10,3 +10,4 @@ qbittorrent
 mpv
 lf
 dmenu
+xwallpaper
