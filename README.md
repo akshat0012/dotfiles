@@ -62,8 +62,8 @@ Clone this arch-bspwm-base branch
 | `Super + Ctrl + ↓` | Contract window from top |
 | `Super + Ctrl + ↑` | Contract window from bottom |
 | `Super + Ctrl + →` | Contract window from left |
-| `Super + ←` | Move floating window left |
-| `Super + ↓` | Move floating window down |
-| `Super + ↑` | Move floating window up |
-| `Super + →` | Move floating window right |
+| `Super + Alt + ←` | Move floating window left |
+| `Super + Alt + ↓` | Move floating window down |
+| `Super + Alt + ↑` | Move floating window up |
+| `Super + Alt + →` | Move floating window right |
 
