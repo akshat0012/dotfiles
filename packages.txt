@@ -1,6 +1,5 @@
 bspwm
 sxhkd
-ttf-bigblueterminal-nerd
 neovim
 shotgun
 firefox
@@ -10,4 +9,8 @@ qbittorrent
 mpv
 lf
 dmenu
+polybar
+picom
 xwallpaper
+xorg-xset
+xorg-xrandr

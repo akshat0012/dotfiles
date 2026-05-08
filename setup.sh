@@ -17,6 +17,10 @@ link() {
     ln -s "$SRC" "$DST"
 }
 
+mkdir -p ~/.local/share/fonts/
+cp ./fonts/SFMonoNerdFontMono-SemiBold.otf ~/.local/share/fonts/
+fc-cache
+
 link "$HOME/dotfiles/.config" "$HOME/.config"
 link "$HOME/dotfiles/.bashrc" "$HOME/.bashrc"
 link "$HOME/dotfiles/.xinitrc" "$HOME/.xinitrc"

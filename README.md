@@ -1,6 +1,6 @@
-# BASE Rice (Arch + BSPWM)
+# A different Rice (Arch + BSPWM)
 
-![preview](/previews/s_1770765974.png)
+![preview](/previews/s_1778247660.png)
 
 ## :snowflake: My Setup
 
@@ -13,7 +13,7 @@
 ## :wrench: Installation
 
 ```
-Clone this arch-bspwm-base branch
+Clone this repo, switch to arch-bspwm-maxos branch 
 
 ./install.sh
 ./setup.sh
